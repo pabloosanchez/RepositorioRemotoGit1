@@ -6,6 +6,7 @@ public class Principal {
 		
 		System.out.println("Holi :)");
 
+		System.out.println("Holi 2 xd :)");
 	}
 
 }
